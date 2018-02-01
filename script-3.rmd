@@ -13,7 +13,7 @@ output:
 knitr::opts_chunk$set(echo=TRUE)
 
 ```
-
+#   BITCHES & HOES
 #   IT IS WHAT IT IS - Data Science ¿¿
 
 Early days, When i was a newbie to the world of Machine Learning. 
